@@ -1,0 +1,113 @@
+﻿@model click_gas.Models.ServicosPedido
+
+
+@{
+    Layout = "~/Views/Shared/LayoutFuncionario.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <title>Serviços Pendentes</title>
+</head>
+
+<body class="w3-animate-top" background="..\..\imgs\fundo.jpg">
+    <h1 class="w3-text-deep-orange w3-margin-top">CONSULTAR PEDIDO</h1>
+    <div class="w3-container w3-margin-top w3-round-xlarge w3-card-4 w3-white ">
+        <div class="w3-margin-top w3-center">
+            <img style="width:20%" class="w3-center" src="..\..\imgs\consulta.png" />
+        </div>
+        <br>
+        <p><b>Cliente: </b>@Model.nomeCliente</p>
+        <p><b>Contacto: </b>@Model.contactoCliente.ToString()</p>
+        <p><b>Rua: </b>@Model.rua</p>
+        <p><b>Nº da Porta: </b>@Model.numero</p>
+        <p><b>Freguesia: </b>@Model.freguesia</p>
+        <p><b>Concelho: </b>@Model.concelho</p>
+        <p><b>Código Postal: </b>@Model.codPostal</p>
+        <p><b>Data: </b>@Model.data.ToString("dd/MM/yyyy")</p>
+        @{
+        click_gas.Models.Time t = new click_gas.Models.Time(Model.hora);
+        }
+        <p><b>Hora: </b>@t.GetTimeString()</p>
+        @{
+        if (Model.observacoes != null)
+        {
+            <p><b>Observacoes: </b>@Model.observacoes</p>
+        }
+        }
+
+        <br>
+        <div>
+            <table class="w3-centered w3-table w3-striped w3-border">
+                <tr>
+                    <th>
+                        Serviço
+                    </th>
+                    <th>
+                        Quantidade
+                    </th>
+                </tr>
+
+                @foreach (var servico in Model.servicos)
+            {
+                <tr>
+                    <td>
+                        @servico.servico
+                    </td>
+                    <td>
+                        @servico.quantidade
+                    </td>
+                </tr>
+        }
+
+            </table>
+            <br />
+        </div>
+        <p id="demo" class="w3-center">
+            <input type="button" value="Consultar Percurso" class="w3-button w3-section w3-deep-orange w3-round-xlarge w3-ripple w3-center" onclick="getLocation()" />
+        </p>
+        <script>
+            function getLocation() {
+                var x = document.getElementById("demo");
+                if (navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition(showPosition);
+                }
+                else {
+                    x.innerHTML = "Geolocation is not supported by this browser.";
+                }
+            }
+            function showPosition(position) {
+            var morada = '@Model.rua';
+            var num = '@Model.numero';
+            var concelho = '@Model.concelho';
+            var sepM = morada.split(" ");
+            var sepC = concelho.split(" ");
+            var map ="";
+            var i;
+            for (i = 0; i < sepM.length; i++) {
+                map = map.concat(sepM[i]+"%20");
+            }
+            map = map.concat(num+"%20");
+            for (i = 0; i < sepC.length - 1; i++) {
+                map = map.concat(sepC[i]+"%20");
+            }
+            map = map.concat(sepC[sepC.length - 1]);
+
+            var link = 'http://bing.com/maps/default.aspx?rtp=pos.' + position.coords.latitude + '_' + position.coords.longitude + '_Funcionário~adr.'+map+'&rtop=0~1~0';
+            window.open(link);
+        }
+        </script>
+        @using (Html.BeginForm("Validar", "Funcionario", FormMethod.Post))
+        {
+            <input type="hidden" name="idpedido" value=@ViewBag.Pedido>
+            <p class="w3-center">
+                <input class="w3-button w3-section w3-deep-orange w3-round-xlarge w3-ripple w3-center" type="submit" value="Validar" />
+            </p>
+        }
+    </div>
+</body>
+</html>
