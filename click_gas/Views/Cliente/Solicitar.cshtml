@@ -1,0 +1,145 @@
+﻿
+@{
+    Layout = "~/Views/Shared/LayoutCliente.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <title>Solicitar Pedido</title>
+</head>
+<body class="w3-animate-top" background="..\..\imgs\fundo.jpg">
+    <h1 class="w3-text-deep-orange">SOLICITAR PEDIDO</h1>
+    <br>
+
+    @using (Html.BeginForm("AdicionarPedido", "Cliente", FormMethod.Post))
+    {
+        <fieldset class="w3-container w3-card-4 w3-round-xlarge w3-white">
+            <br>
+            <h2><b>ENTREGA E SUBSTITUIÇÃO DAS SEGUINTES BOTIJAS DE GÁS</b></h2>
+            <div class="botijas">
+                <div class="botija">
+                    <img class="img-solicitar" src="..\..\imgs\propano45.png" />
+                    <h3><b>Propano 45kg</b></h3>
+                    <p>Produto indicado para uso doméstico, profissional ou industrial.</p>
+                    <input class="w3-radio" type="radio" name="propano45" value="on">
+                    <input type="number" name="n45" min="0" max="20" step="1" value="0" />
+                </div>
+
+                <div class="botija">
+                    <img class="img-solicitar" src="..\..\imgs\propano11.png" />
+                    <h3><b>Propano 11kg</b></h3>
+                    <p>Produto indicado para uso industrial ou doméstico.</p>
+                    <input class="w3-radio" type="radio" name="propano11" value="on">
+                    <input type="number" name="n11" min="0" max="20" step="1" value="0" />
+                </div>
+
+                <div class="botija">
+                    <img class="img-solicitar" src="..\..\imgs\propano5.png" />
+                    <h3><b>Propano 5kg</b></h3>
+                    <p>Produto indicado para uso profissional.</p>
+                    <input class="w3-radio" type="radio" name="propano5" value="on">
+                    <input type="number" name="n5" min="0" max="20" step="1" value="0" />
+                </div>
+            </div>
+
+            <div class="botijas">
+                <div class="botija">
+                    <img class="img-solicitar" src="..\..\imgs\carburante11.png" />
+                    <h3><b>Carburante 11kg</b></h3>
+                    <p>Produto indicado para uso comercial.</p>
+                    <input class="w3-radio" type="radio" name="carburante11" value="on">
+                    <input type="number" name="nc11" min="0" max="20" step="1" value="0" />
+                </div>
+
+                <div class="botija">
+                    <img class="img-solicitar" src="..\..\imgs\butano13.png" />
+                    <h3><b>Butano 13kg</b></h3>
+                    <p>Produto indicado para uso doméstico.</p>
+                    <input class="w3-radio" type="radio" name="butano13" value="on">
+                    <input type="number" name="n13" min="0" max="20" step="1" value="0" />
+                </div>
+
+                <div class="botija">
+                    <img class="img-solicitar" src="..\..\imgs\butano6.png" />
+                    <h3><b>Butano 6kg</b></h3>
+                    <p>Produto indicado para uso doméstico e lazer.</p>
+                    <input class="w3-radio" type="radio" name="butano6" value="on">
+                    <input type="number" name="n6" min="0" max="20" step="1" value="0" />
+                </div>
+            </div>
+            <br>
+        </fieldset>
+
+        <br>
+        <br>
+
+        <fieldset class="w3-container w3-card-4 w3-round-xlarge w3-white">
+            <h2><b>MANUTENÇÃO DE EQUIPAMENTOS</b></h2>
+            <p>
+                <input class="w3-radio" type="radio" name="mangueiras" value="on">
+                <label>Troca de mangueiras</label>
+            </p>
+
+            <p>
+                <input class="w3-radio" type="radio" name="redutores" value="on">
+                <label>Troca de redutores</label>
+            </p>
+
+            <p>
+                <input class="w3-radio" type="radio" name="valvulas" value="on">
+                <label>Substituição de válvulas de corte</label>
+            </p>
+
+            <p>
+                <input class="w3-radio" type="radio" name="tubos" value="on">
+                <label>Substituição de tubos de metal</label>
+            </p>
+        </fieldset>
+
+        <br>
+        <br>
+
+        <fieldset class="w3-container w3-card-4 w3-round-xlarge w3-white">
+            <h2><b>INSTALAÇÃO</b></h2>
+            <p>
+                <input class="w3-radio" type="radio" name="sistema" value="on">
+                <label>Instalação do sistema de gás engarrafado</label>
+            </p>
+
+            <p>
+                <input class="w3-radio" type="radio" name="ligacoes" value="on">
+                <label>Instalação de ligações metálicas flexíveis a aparelhos de queima</label>
+            </p>
+        </fieldset>
+
+        <br>
+        <br>
+
+        <fieldset class="w3-container w3-card-4 w3-round-xlarge w3-white">
+            <h2><b>AGENDAMENTO</b></h2>
+            <p>Selecione a data e a hora em que pretende que seja realizado o serviço.</p>
+            <br>
+            <p><b>Data</b><font class="w3-text-deep-orange"> * </font> <input type="date" name="data" /></p>
+            <p><b>Hora</b><font class="w3-text-deep-orange"> * </font> <input type="time" name="hora" /></p>
+
+            <p>
+                <b>Observações </b><input type="text" name="observacoes">
+            </p>
+            <br>
+            <font class="w3-text-deep-orange"> * </font> - <font class="w3-small">Campo de preenchimento obrigatório.</font>
+            <br>
+            <br>
+        </fieldset>
+
+        <br>
+        <p class="w3-center">
+            <input class="w3-button w3-section w3-deep-orange w3-round-xlarge w3-ripple w3-center" type="submit" value="Confirmar" />
+        </p>
+    }
+
+</body>
+</html>
