@@ -1,0 +1,709 @@
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\ApplicationInsights.config
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\click_gas.dll.config
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\click_gas.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\click_gas.pdb
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Antlr3.Runtime.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\EntityFramework.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\EntityFramework.SqlServer.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.AI.Web.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Newtonsoft.Json.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.Helpers.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.Mvc.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.Optimization.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.Razor.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.WebPages.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\WebGrease.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\EntityFramework.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\EntityFramework.SqlServer.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.Helpers.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.Mvc.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.Optimization.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.Razor.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.WebPages.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Antlr3.Runtime.pdb
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Newtonsoft.Json.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\Microsoft.AI.Web.xml
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\obj\Debug\click_gas.csprojResolveAssemblyReference.cache
+C:\Users\Joana\source\repos\click_gas\click_gas\obj\Debug\click_gas.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\click_gas\click_gas\obj\Debug\click_gas.dll
+C:\Users\Joana\source\repos\click_gas\click_gas\obj\Debug\click_gas.pdb
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\obj\Debug\click_gas.csprojResolveAssemblyReference.cache
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\obj\Debug\click_gas.csproj.CoreCompileInputs.cache
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\obj\Debug\click_gas.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\obj\Debug\click_gas.pdb
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\ApplicationInsights.config
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\click_gas.dll.config
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\click_gas.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\click_gas.pdb
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Antlr3.Runtime.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\EntityFramework.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\EntityFramework.SqlServer.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\jose-jwt.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.AI.Web.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Newtonsoft.Json.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Nexmo.Api.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.Helpers.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.Mvc.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.Optimization.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.Razor.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.WebPages.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\WebGrease.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\EntityFramework.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\EntityFramework.SqlServer.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Newtonsoft.Json.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.Helpers.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.Mvc.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.Optimization.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.Razor.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.WebPages.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Antlr3.Runtime.pdb
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\Microsoft.AI.Web.xml
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cláudia Correia\Desktop\click_gas\click_gas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\obj\Debug\click_gas.csprojResolveAssemblyReference.cache
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\obj\Debug\click_gas.csproj.CoreCompileInputs.cache
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\obj\Debug\click_gas.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\obj\Debug\click_gas.pdb
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\ApplicationInsights.config
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\click_gas.dll.config
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\click_gas.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\click_gas.pdb
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Antlr3.Runtime.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\EntityFramework.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\EntityFramework.SqlServer.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\jose-jwt.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.AI.Web.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Newtonsoft.Json.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Nexmo.Api.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.Helpers.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.Mvc.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.Optimization.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.Razor.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.WebPages.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\WebGrease.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\EntityFramework.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\EntityFramework.SqlServer.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Newtonsoft.Json.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.Helpers.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.Mvc.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.Optimization.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.Razor.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.WebPages.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Antlr3.Runtime.pdb
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\Microsoft.AI.Web.xml
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo\click_gas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\obj\Debug\click_gas.csprojResolveAssemblyReference.cache
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\obj\Debug\click_gas.csproj.CoreCompileInputs.cache
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\obj\Debug\click_gas.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\obj\Debug\click_gas.pdb
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\ApplicationInsights.config
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\click_gas.dll.config
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\click_gas.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\click_gas.pdb
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Antlr3.Runtime.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\EntityFramework.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\EntityFramework.SqlServer.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\jose-jwt.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.Web.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Newtonsoft.Json.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Nexmo.Api.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.Helpers.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.Mvc.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.Optimization.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.Razor.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.WebPages.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\WebGrease.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\EntityFramework.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\EntityFramework.SqlServer.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Newtonsoft.Json.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.Helpers.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.Mvc.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.Optimization.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.Razor.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.WebPages.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Antlr3.Runtime.pdb
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.Web.xml
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cláudia Correia\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\ApplicationInsights.config
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\click_gas.dll.config
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\click_gas.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\click_gas.pdb
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Antlr3.Runtime.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\EntityFramework.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\EntityFramework.SqlServer.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\jose-jwt.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.Web.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Newtonsoft.Json.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Nexmo.Api.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.Helpers.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.Mvc.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.Optimization.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.Razor.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.WebPages.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\WebGrease.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\EntityFramework.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\EntityFramework.SqlServer.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Newtonsoft.Json.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.Helpers.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.Mvc.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.Optimization.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.Razor.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.WebPages.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Antlr3.Runtime.pdb
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\Microsoft.AI.Web.xml
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\obj\Debug\click_gas.csprojResolveAssemblyReference.cache
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\obj\Debug\click_gas.csproj.CoreCompileInputs.cache
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\obj\Debug\click_gas.dll
+C:\Users\Joana\Desktop\novo - Cópia\click_gas\obj\Debug\click_gas.pdb
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\ApplicationInsights.config
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\click_gas.dll.config
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\click_gas.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\click_gas.pdb
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Antlr3.Runtime.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\EntityFramework.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\EntityFramework.SqlServer.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\jose-jwt.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.AI.Web.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Newtonsoft.Json.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Nexmo.Api.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.Helpers.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.Mvc.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.Optimization.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.Razor.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.WebPages.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\WebGrease.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\EntityFramework.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\EntityFramework.SqlServer.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Newtonsoft.Json.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.Helpers.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.Mvc.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.Optimization.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.Razor.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.WebPages.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Antlr3.Runtime.pdb
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\Microsoft.AI.Web.xml
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\obj\Debug\click_gas.csprojResolveAssemblyReference.cache
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\obj\Debug\click_gas.csproj.CoreCompileInputs.cache
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\obj\Debug\click_gas.dll
+C:\Users\Cláudia Correia\Desktop\ok\novo - Cópia\click_gas\obj\Debug\click_gas.pdb
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\ApplicationInsights.config
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\click_gas.dll.config
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\click_gas.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\click_gas.pdb
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Antlr3.Runtime.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\EntityFramework.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\EntityFramework.SqlServer.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\jose-jwt.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.AI.Web.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Newtonsoft.Json.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Nexmo.Api.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.Helpers.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.Mvc.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.Optimization.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.Razor.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.WebPages.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\WebGrease.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\EntityFramework.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\EntityFramework.SqlServer.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Newtonsoft.Json.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.Helpers.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.Mvc.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.Optimization.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.Razor.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.WebPages.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Antlr3.Runtime.pdb
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\Microsoft.AI.Web.xml
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\obj\Debug\click_gas.csprojResolveAssemblyReference.cache
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\obj\Debug\click_gas.csproj.CoreCompileInputs.cache
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\obj\Debug\click_gas.dll
+C:\Users\Ana Catarina\Downloads\ClickGas\click_gas\obj\Debug\click_gas.pdb
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\ApplicationInsights.config
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\click_gas.dll.config
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\click_gas.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\click_gas.pdb
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Antlr3.Runtime.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\EntityFramework.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\EntityFramework.SqlServer.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\jose-jwt.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.AI.Web.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Newtonsoft.Json.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Nexmo.Api.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.Helpers.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.Mvc.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.Optimization.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.Razor.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.WebPages.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\WebGrease.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\EntityFramework.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\EntityFramework.SqlServer.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Newtonsoft.Json.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.Helpers.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.Mvc.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.Optimization.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.Razor.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.WebPages.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Antlr3.Runtime.pdb
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\Microsoft.AI.Web.xml
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\obj\Debug\click_gas.csprojResolveAssemblyReference.cache
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\obj\Debug\click_gas.csproj.CoreCompileInputs.cache
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\obj\Debug\click_gas.dll
+C:\Users\Cláudia Correia\Desktop\ClickGas\click_gas\obj\Debug\click_gas.pdb
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\ApplicationInsights.config
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\click_gas.dll.config
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\click_gas.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\click_gas.pdb
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Antlr3.Runtime.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\EntityFramework.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\EntityFramework.SqlServer.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\jose-jwt.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.AI.Web.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Newtonsoft.Json.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Nexmo.Api.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.Helpers.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.Mvc.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.Optimization.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.Razor.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.WebPages.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\WebGrease.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\EntityFramework.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\EntityFramework.SqlServer.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Newtonsoft.Json.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.Helpers.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.Mvc.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.Optimization.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.Razor.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.WebPages.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Antlr3.Runtime.pdb
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\Microsoft.AI.Web.xml
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\obj\Debug\click_gas.csprojResolveAssemblyReference.cache
+C:\Users\Joana\Downloads\ClickGas\click_gas\obj\Debug\click_gas.csproj.CoreCompileInputs.cache
+C:\Users\Joana\Downloads\ClickGas\click_gas\obj\Debug\click_gas.dll
+C:\Users\Joana\Downloads\ClickGas\click_gas\obj\Debug\click_gas.pdb
